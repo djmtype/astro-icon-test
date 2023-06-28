@@ -10,6 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.7.1"
+    "astro": "^2.7.1",
+    "@iconify-json/bi": "^1.1.17",
+    "@iconify-json/fe": "^1.1.6",
+    "@iconify-json/ic": "^1.1.13",
+    "@iconify-json/ri": "^1.1.10",
+    "astro-icon": "https://gitpkg.now.sh/natemoo-re/astro-icon/packages/core?v1-alpha"
   }
 }
